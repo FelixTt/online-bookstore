@@ -31,7 +31,7 @@ One way to depoly this program is just to put Directory [OnlineBookstore](https:
 3. you can also change the port and the context of this project(server) in Run As -> Run Configuration.
 
 ## Visit
-http://localhost/OnlineBookstore/SearchClServlet?dowhat=searchByRand
+[http://localhost/OnlineBookstore/SearchClServlet?dowhat=searchByRand](http://localhost/OnlineBookstore/SearchClServlet?dowhat=searchByRand)
 
 ## Key Points
 * use simple __Java Servlet__ to get/forward request and send response.
