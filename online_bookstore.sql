@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50173
 File Encoding         : 65001
 
-Date: 2017-01-28 18:18:58
+Date: 2017-01-28 18:47:54
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -426,7 +426,7 @@ INSERT INTO `user` VALUES ('ken', '1', 'ken.jpg', 'chicken', '姚陈堃', 'M', '
 INSERT INTO `user` VALUES ('ken1', '1', 'ken1.jpg', 'oMyLoveo', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('ken1993', '1', 'ken1993.jpg', '听听听雨', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('ken1993108', '1', 'ken1993108.jpg', '水睡着了是冰', '', 'F', '', '', '', null);
-INSERT INTO `user` VALUES ('ken19931108', '89085128kk', 'ken19931108.jpg', '哈哈哈哈哈', '', 'M', '', '', '', '0001-01-01');
+INSERT INTO `user` VALUES ('ken19931108', '123', 'ken19931108.jpg', '哈哈哈哈哈', '', 'M', '', '', '', '0001-01-01');
 INSERT INTO `user` VALUES ('ken3', '1', 'ken3.jpg', '听见下雨的声音', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('ken33', '1', 'ken33.jpg', '小小小草', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('kj', 'l', 'kj.jpg', 'you&me', '', 'M', '', '', '', null);
@@ -447,7 +447,7 @@ INSERT INTO `user` VALUES ('xixi', '1', 'xixi.jpg', '麒麟', '', 'M', '', '', '
 INSERT INTO `user` VALUES ('yang', '123456', 'yang.jpg', '小堃', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('yao', '123', 'yao.jpg', 'standbyme', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('yaochenkun', 'owen99', 'yaochenkun.jpg', '小志', '', 'M', '', '', '', null);
-INSERT INTO `user` VALUES ('yaochenkun99', '89085128', 'yaochenkun99.jpg', '突然好想你', '', 'M', '', '', '', null);
+INSERT INTO `user` VALUES ('yaochenkun99', '12412422', 'yaochenkun99.jpg', '突然好想你', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('yck', 'owen99', 'yck.jpg', '小静', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('ycy', 'ycy', 'ycy.jpg', '因为有你friend', '', 'M', '', '', '', null);
 INSERT INTO `user` VALUES ('zhang', '123', 'zhang.jpg', '琳琅', '', 'M', '', '', '', null);
