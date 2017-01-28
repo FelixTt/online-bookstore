@@ -12,7 +12,7 @@ An Online Bookstore implemented in Java that provides a platform for seller and 
 1. Java: __JDK 1.7.0_79__
 2. Server: __Jetty 8__
 3. Database: __MySQL 5.1__
-4. SDE(Software Development Environment): __eclipse-jee-mars__
+4. IDE: __eclipse-jee-mars__
 
 ## Deployment
 One way to depoly this program is just to put Directory [OnlineBookstore](https://github.com/yaochenkun/OnlineBookstore/tree/master/OnlineBookstore) into webapp in Tomcat's or Jetty's Directory, while the other way is for debugging:
