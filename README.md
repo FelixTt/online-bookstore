@@ -3,7 +3,7 @@ An Online Bookstore implemented in Java that provides a platform for seller and 
 一个用Java实现的买卖家在线交易书籍的网上书店。
 
 ## Screenshot
-![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/shucong1.png)
+![](http://yaochenkun.cn/wordpress/wp-content/uploads/2017/01/shucongmaine.png)
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/shucong5.png)
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/shucong6.png)
 ![](http://yaochenkun.cn/wordpress/wp-content/uploads/2016/07/shucong9.png)
