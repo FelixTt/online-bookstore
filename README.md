@@ -30,6 +30,9 @@ One way to depoly this program is just to put Directory [OnlineBookstore](https:
 2. right click the project and click Run As -> Run Jetty. __Be careful that Jetty's version should be '8.x.x', or annotations of WebServlet would not work and servlets' path cannot be found.__
 3. you can also change the port and the context of this project(server) in Run As -> Run Configuration.
 
+## Visit
+http://localhost/OnlineBookstore/SearchClServlet?dowhat=searchByRand
+
 ## Key Points
 * use simple __Java Servlet__ to get/forward request and send response.
 * use __MVC pattern__ to decouple View(JSP) from Controller(XXXClServlet) and Model(XXXBeanCl and XXXBean).
