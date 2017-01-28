@@ -31,9 +31,9 @@ One way to depoly this program is just to put Directory [OnlineBookstore](https:
 3. you can also change the port and the context of this project(server) in Run As -> Run Configuration.
 
 ## Key Points
-* use simple Java Servlet to get/forward request and send response.
-* use MVC pattern to decouple View(JSP) from Controller(XXXClServlet) and Model(XXXBeanCl and XXXBean).
-* create 6 key tables to undertake the tasks of all the bussinesses.For details you can reach [online_bookstore.sql](https://github.com/yaochenkun/OnlineBookstore/blob/master/online_bookstore.sql).
+* use simple __Java Servlet__ to get/forward request and send response.
+* use __MVC pattern__ to decouple View(JSP) from Controller(XXXClServlet) and Model(XXXBeanCl and XXXBean).
+* create __6 key tables__ to undertake the tasks of all the bussinesses.For details you can reach [online_bookstore.sql](https://github.com/yaochenkun/OnlineBookstore/blob/master/online_bookstore.sql).
 
 ## For More
 If you want to learn more about the development of this project, you can visit [网上书店简介.pdf](https://github.com/yaochenkun/OnlineBookstore/blob/master/网上书店简介.pdf) and [网上书店开发文档.pdf](https://github.com/yaochenkun/OnlineBookstore/blob/master/网上书店开发文档.pdf).
